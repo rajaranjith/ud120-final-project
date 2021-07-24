@@ -1,0 +1,10 @@
+(lp0
+S'poi'
+p1
+aS'fraction_from_poi_email'
+p2
+aS'fraction_to_poi_email'
+p3
+aS'shared_receipt_with_poi'
+p4
+a.
